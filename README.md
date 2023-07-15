@@ -12,10 +12,8 @@
   <li>ENCONTRAR LOS DATOS DE ENTRENAMIENTO:</li><br>
   <a>Teniendo en cuenta el problema que se esta afrontando y en el lugar en el que se desarrolla el proyecto, hay que tener unos factores en cuenta al momento de obtener los datos de entrenamiento y es que no todo puede       servir debido a que si los datos que tenemos se basan en buscar pasos de cebra o similares, el modelo estaria trabajando en un sistema en el que si hay uno de estos pasos peatonaales daria el visto bueno para el paso pero   en colombia no suele funcionar asi, por lo tanto hay que concentrarse en que el modelo diga los colore del semaforo</a><br>
 <br>
-  <li>Carmen</li>
+  <li>RPOBAR MODELOS DE INTELIGENCIA ARTIFICIAL CON LOS DATOS:</li><br>
 <br>
-  <li>Ignacio</li>
-<br>
-  <li>Elena</li>
+  <li>OPTIMIZAR LOS MODELOS PARA CONSEGUIR MEJORES RESULTADOS:</li><br>
 <br>
 </ul>
