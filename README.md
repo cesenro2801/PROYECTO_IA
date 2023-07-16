@@ -25,10 +25,10 @@
 
 <p>
   Original
-  <a href='https://dl.orangedox.com/KrVSsK'>Parte 1</a>,
-  <a href='https://dl.orangedox.com/CMjgtX'>parte 2</a>.<br>
+  <a href='https://dl.orangedox.com/KrVSsK' target=”_blank”>Parte 1</a>,
+  <a href='https://dl.orangedox.com/CMjgtX'target=”_blank”>parte 2</a>.<br>
   Recortado
-  <a href='https://drive.google.com/drive/folders/1qmkmT19F9kIjHz9BfVIA1UfixMP2YzqZ?usp=drive_link'>aquí</a>
+  <a href='https://drive.google.com/drive/folders/1qmkmT19F9kIjHz9BfVIA1UfixMP2YzqZ?usp=drive_link' target=”_blank”>aquí</a>
 </p>
 
 
