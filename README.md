@@ -61,7 +61,7 @@
   <li>REDES NEURONALES</li><br>
   <p>es un método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera que está inspirada en la forma en que lo hace el         cerebro humano. Se trata de un tipo de proceso de machine learning llamado aprendizaje profundo, que utiliza los nodos o las neuronas interconectados en una        estructura de capas que se parece al cerebro humano. Crea un sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar                 continuamente. De esta forma, las redes neuronales artificiales intentan resolver problemas complicados, como la realización de resúmenes de documentos o el        reconocimiento de rostros, con mayor precisión.</p>
   <p>Accuracy:  0.95652 </p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="" width="500" /><br><br>
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/master/IMG/CNN.png" width="500" /><br><br>
   
 </ul>
 
