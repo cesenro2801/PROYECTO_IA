@@ -31,9 +31,14 @@
   <a href='https://drive.google.com/drive/folders/1qmkmT19F9kIjHz9BfVIA1UfixMP2YzqZ?usp=drive_link' >aquí</a>
 </p>
 
+<h3>MODELOS PROBADS</h3>
 
-
-
+<ul>
+  <li>GAUSSIAN NAIVE BAYES:></li><br>
+  <p>es una técnica de clasificación utilizada en Machine Learning (ML) basada en el enfoque probabilístico y la distribución gaussiana. Gaussian Naive Bayes asume   que cada parámetro (también llamado características o predictores) tiene una capacidad independiente de predecir la variable de salida. La combinación de la        predicción para todos los parámetros es la predicción final, que devuelve una probabilidad de que la variable dependiente se clasifique en cada grupo. La           clasificación final se asigna al grupo con mayor probabilidad</p>
+  <p>Accuracy</p>
+  <li>Entrenar y comparar varios modelos supervisados y no supervisados, para determinar cual es el más efectivo en el reconocimiento del estado de los semáforos.</li><br>
+</ul>
 
 
 
