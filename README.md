@@ -36,7 +36,7 @@
 <ul>
   <li>GAUSSIAN NAIVE BAYES:</li><br>
   <p>Es una técnica de clasificación utilizada en Machine Learning (ML) basada en el enfoque probabilístico y la distribución gaussiana. Gaussian Naive Bayes asume   que cada parámetro (también llamado características o predictores) tiene una capacidad independiente de predecir la variable de salida. La combinación de la        predicción para todos los parámetros es la predicción final, que devuelve una probabilidad de que la variable dependiente se clasifique en cada grupo. La           clasificación final se asigna al grupo con mayor probabilidad</p>
-  <p>Accuracy:  0.6576</p>
+  <p>Accuracy:  0.58</p>
   <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/GNB.jpeg" width="500" /><br><br>
 
   <li>RANDOM FOREST CLASSIFIER:</li><br>
@@ -50,13 +50,13 @@
 
   <li>SUPPORT VECTOR MACHINE:</li><br>
   <p>El objetivo del algoritmo de la máquina de vectores de soporte es encontrar un hiperplano en un espacio N-dimensional (N: el número de características) que      clasifique claramente los puntos de datos. Para separar las dos clases de puntos de datos, se pueden elegir muchos hiperplanos posibles. Nuestro objetivo es        encontrar un plano que tenga el margen máximo, es decir, la distancia máxima entre puntos de datos de ambas clases. Maximizar la distancia del margen proporciona   cierto refuerzo para que los puntos de datos futuros se puedan clasificar con más confianza.</p>
-  <p>Accuracy:  0.6576</p>
+  <p>Accuracy:  0.64</p>
   <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/SVC.jpeg" width="500" /><br><br>
 
   <li>REDES NEURONALES</li><br>
   <p>es un método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera que está inspirada en la forma en que lo hace el         cerebro humano. Se trata de un tipo de proceso de machine learning llamado aprendizaje profundo, que utiliza los nodos o las neuronas interconectados en una        estructura de capas que se parece al cerebro humano. Crea un sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar                 continuamente. De esta forma, las redes neuronales artificiales intentan resolver problemas complicados, como la realización de resúmenes de documentos o el        reconocimiento de rostros, con mayor precisión.</p>
   <p>Accuracy:  0.95652 </p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/CNN.png" width="500" /><br><br>
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/CNN.jpg" width="500" /><br><br>
   
 </ul>
 
