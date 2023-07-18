@@ -63,6 +63,9 @@
 
 <h3>CONCLUSIONES</h3>
 
-
+<ul>
+  <li>En el desarrollo inicial del proyecto se plantea la construcción de un modelo de inteligencia artificial para detectar semáforos, tras la construcción de varios modelos con diferentes métodos se logra obtener un modelo funcional que ofrece entre un 95% a un 97% de accuracy el cual se puede considerar una exactitud bastante buena teniendo en cuenta que este es un modelo enfocado en ayudar a personas y el fallar puede implicar jugar con la vida de quienes lo utilicen.</li>
+  <li>Durante el desarrollo se evidencio como en un principio con pocos datos los modelos como el GNB, RFC, SVC obtuvieron resultados de mas del 70% de exactitud pero al aumentar los datos estos empezaron a fallar mas y el modelo que mejoro significativamente fueron las redes neuronales, por lo que fue el modelo que se escogió para terminar de mejorar y obtener los resultados de exactitud mas altos.</li>
+</ul>
 
 
