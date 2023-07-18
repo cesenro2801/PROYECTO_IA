@@ -37,7 +37,7 @@
   <li>GAUSSIAN NAIVE BAYES:</li><br>
   <p>Es una técnica de clasificación utilizada en Machine Learning (ML) basada en el enfoque probabilístico y la distribución gaussiana. Gaussian Naive Bayes asume   que cada parámetro (también llamado características o predictores) tiene una capacidad independiente de predecir la variable de salida. La combinación de la        predicción para todos los parámetros es la predicción final, que devuelve una probabilidad de que la variable dependiente se clasifique en cada grupo. La           clasificación final se asigna al grupo con mayor probabilidad</p>
   <p>Accuracy:  0.6576</p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://img.freepik.com/vector-gratis/pavimentacion-cruce-peatonal-ciego_1284-22012.jpg?w=826&t=st=1689445322~exp=1689445922~hmac=c85d1279e4b197ee560be7630b381300f7044a5e8d4f2f5f2b263ff943b73ed3" width="500" /><br><br>
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/GNB.jpeg" width="500" /><br><br>
 
   <li>RANDOM FOREST CLASSIFIER:</li><br>
   <p>es uno de los algoritmos más populares y comúnmente utilizados por los científicos de datos. Random forest es un  algoritmo de aprendizaje automático       
@@ -45,18 +45,13 @@
   para la clasificación y el promedio en caso de regresión. Random forest es un algoritmo versátil de aprendizaje automático desarrollado por Leo Breiman y Adele 
   Cutler. Aprovecha un conjunto de múltiples árboles de decisión para generar predicciones o clasificaciones. Al combinar los resultados de estos árboles, el 
   algoritmo de bosque aleatorio ofrece un resultado consolidado y más preciso.</p>
-  <p>Accuracy:  0.6576</p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://img.freepik.com/vector-gratis/pavimentacion-cruce-peatonal-ciego_1284-22012.jpg?w=826&t=st=1689445322~exp=1689445922~hmac=c85d1279e4b197ee560be7630b381300f7044a5e8d4f2f5f2b263ff943b73ed3" width="500" /><br><br>
+  <p>Accuracy:  0.66</p>
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/RFC.jpeg" width="500" /><br><br>
 
   <li>SUPPORT VECTOR MACHINE:</li><br>
   <p>El objetivo del algoritmo de la máquina de vectores de soporte es encontrar un hiperplano en un espacio N-dimensional (N: el número de características) que      clasifique claramente los puntos de datos. Para separar las dos clases de puntos de datos, se pueden elegir muchos hiperplanos posibles. Nuestro objetivo es        encontrar un plano que tenga el margen máximo, es decir, la distancia máxima entre puntos de datos de ambas clases. Maximizar la distancia del margen proporciona   cierto refuerzo para que los puntos de datos futuros se puedan clasificar con más confianza.</p>
   <p>Accuracy:  0.6576</p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://img.freepik.com/vector-gratis/pavimentacion-cruce-peatonal-ciego_1284-22012.jpg?w=826&t=st=1689445322~exp=1689445922~hmac=c85d1279e4b197ee560be7630b381300f7044a5e8d4f2f5f2b263ff943b73ed3" width="500" /><br><br>
-
-  <li>DECISION TREE CLASIFFIER</li><br>
-  <p>es una estructura de árbol similar a un diagrama de flujo donde un nodo interno representa una característica (o atributo), la rama representa una regla de      decisión y cada nodo hoja representa el resultado.El nodo superior de un árbol de decisión se conoce como nodo raíz. Aprende a particionar sobre la base del        valor del atributo. Particiona el árbol de una manera recursiva llamada partición recursiva. Esta estructura similar a un diagrama de flujo lo ayuda en la toma     de decisiones. Es una visualización como un diagrama de flujo que imita fácilmente el pensamiento a nivel humano. Es por eso que los árboles de decisión son        fáciles de entender e interpretar.</p>
-  <p>Accuracy:  0.6576</p>
-  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://img.freepik.com/vector-gratis/pavimentacion-cruce-peatonal-ciego_1284-22012.jpg?w=826&t=st=1689445322~exp=1689445922~hmac=c85d1279e4b197ee560be7630b381300f7044a5e8d4f2f5f2b263ff943b73ed3" width="500" /><br><br>
+  <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://github.com/cesenro2801/PROYECTO_IA/blob/main/IMG/SVC.jpeg" width="500" /><br><br>
 
   <li>REDES NEURONALES</li><br>
   <p>es un método de la inteligencia artificial que enseña a las computadoras a procesar datos de una manera que está inspirada en la forma en que lo hace el         cerebro humano. Se trata de un tipo de proceso de machine learning llamado aprendizaje profundo, que utiliza los nodos o las neuronas interconectados en una        estructura de capas que se parece al cerebro humano. Crea un sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar                 continuamente. De esta forma, las redes neuronales artificiales intentan resolver problemas complicados, como la realización de resúmenes de documentos o el        reconocimiento de rostros, con mayor precisión.</p>
