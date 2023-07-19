@@ -74,6 +74,7 @@
 <p>
   <a href='https://colab.research.google.com/drive/1-8hAYrW866cpjIFQPyUtU1sqMh48sdpx?usp=sharing' >CODIGO</a>,
   <a href='https://dl.orangedox.com/CMjgtX'>VIDEO</a>.<br>
+  <a href='https://www.canva.com/design/DAForT5t3OM/RJqN-cI_buh3y-lzolcFWA/watch?utm_content=DAForT5t3OM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>PRESENTACION</a>.<br>
 </p>
 
 
