@@ -70,7 +70,7 @@
   <li>Durante el desarrollo se evidencio como en un principio con pocos datos los modelos como el GNB, RFC, SVC obtuvieron resultados de mas del 70% de exactitud pero al aumentar los datos estos empezaron a fallar mas y el modelo que mejoro significativamente fueron las redes neuronales, por lo que fue el modelo que se escogió para terminar de mejorar y obtener los resultados de exactitud mas altos.</li>
 </ul>
 
-<h3>ENLACESE</h3>
+<h3>ENLACES</h3>
 <p>
   <a href='https://colab.research.google.com/drive/1-8hAYrW866cpjIFQPyUtU1sqMh48sdpx?usp=sharing' >CODIGO</a>,
   <a href='https://youtu.be/rQr6DRAEhRA'>VIDEO</a>,
