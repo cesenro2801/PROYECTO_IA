@@ -6,7 +6,7 @@
 
 </div>
 <br>
-<h2>PLANTEAMIENTO DEL PROBLEMA</h2>
+<h2>PLANTEAMIENTO DEL PROBLEMA </h2>
 <br>
 <p>El problema de autonomia con el que cuentan muchas personas invidentes al momento de estar fuera de sus casas es que se les hace dificil movilizarse por las calles de manera autonoma debido p que los conductores no son concientes y en los pasos de sebra no suelen ceder el paso a las personas invidentes al igual que es muy complicado saber el estado de los semaforos para pasar con mas seguridad, debido a la poca inclusion que hay para estos casos no se cuentan con ayudas o sistemas especializados que permitan mejorar estos casos en pro de mejorar estas situaciones</p>
 
