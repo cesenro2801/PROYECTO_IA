@@ -1,7 +1,9 @@
 <h1 align='center'>VIDA EN VERDE 🚗🚦</h1><BR>
+
 <h2>MODELO DE DETECCION DE ESTADO DE SEMAFOROS PARA AYUDAR A PERSONAS INVIDENTES</h2>
 <div align="center">
   <img alt="Modelo de deteccion de estado de semaforos para ayudar a personas invidentes" src="https://img.freepik.com/vector-gratis/pavimentacion-cruce-peatonal-ciego_1284-22012.jpg?w=826&t=st=1689445322~exp=1689445922~hmac=c85d1279e4b197ee560be7630b381300f7044a5e8d4f2f5f2b263ff943b73ed3" width="500" />
+
 </div>
 <br>
 <h2>PLANTEAMIENTO DEL PROBLEMA</h2>
@@ -68,4 +70,17 @@
   <li>Durante el desarrollo se evidencio como en un principio con pocos datos los modelos como el GNB, RFC, SVC obtuvieron resultados de mas del 70% de exactitud pero al aumentar los datos estos empezaron a fallar mas y el modelo que mejoro significativamente fueron las redes neuronales, por lo que fue el modelo que se escogió para terminar de mejorar y obtener los resultados de exactitud mas altos.</li>
 </ul>
 
+<h3>ENLACESE</h3>
+<p>
+  <a href='https://colab.research.google.com/drive/1-8hAYrW866cpjIFQPyUtU1sqMh48sdpx?usp=sharing' >CODIGO</a>,
+  <a href='https://dl.orangedox.com/CMjgtX'>VIDEO</a>.<br>
+</p>
 
+
+<h3>INTEGRANTES</h3>
+
+<p>Cesar Enrique Rojas Hernandez - 2191952
+
+Santiago Andres Delgado Quiceno - 211799
+
+Mariana Robayo Nieto - 2195092</p>
