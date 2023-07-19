@@ -12,7 +12,7 @@
 
 <h2>OBJETIVOS</h2>
 <h3>OBJETIVO GENERAL</h3><br>
-<p>El objetivo general del proyecto es mejorar la autonomía y seguridad de las personas invidentes al cruzar las calles, mediante el desarrollo de un sistema de IA basado en modelos de aprendizaje que detecten el estado de los semáforos y proporcione indicaciones precisas.</p>
+<p>Mejorar la autonomía y seguridad de las personas invidentes al cruzar las calles, mediante el desarrollo de un sistema de IA basado en modelos de aprendizaje que detecten el estado de los semáforos y proporcione indicaciones precisas.</p>
 
 <h3>OBJETIVOS ESPECIFICOS</h3>
 
